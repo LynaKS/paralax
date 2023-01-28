@@ -11,31 +11,31 @@ gsap.from("#txt", {
     },
     x: 350
 });
-gsap.from("#m1", {
+gsap.from("#img1", {
     scrollTrigger: {
         scrub: true
     },
     y: 100
 });
-gsap.from("#m2", {
+gsap.from("#img2", {
     scrollTrigger: {
         scrub: true
     },
     y: 50
 });
-gsap.from("#m3", {
+gsap.from("#img3", {
     scrollTrigger: {
         scrub: true
     },
     y: 200
 });
-gsap.from("#m4", {
+gsap.from("#img4", {
     scrollTrigger: {
         scrub: true
     },
     y: 150
 });
-gsap.from("#tr", {
+gsap.from("#img4", {
     scrollTrigger: {
         scrub: true
     },
